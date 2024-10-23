@@ -1,0 +1,7 @@
+## Interface: 100200  -- WoW version number 10.2.0
+## Title: Instance Insight
+## Notes: Tracks dungeon runs and loot drops.
+## Author: scavengerrr
+## Version: 1.0
+
+InstanceInsight.lua
